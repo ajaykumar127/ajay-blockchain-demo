@@ -66,11 +66,7 @@ http://localhost:3000
 
 ## Setup using Heroku
 
-(Directions forthcoming)
-
-```
-Something along the lines of, "Spin up a Heroku Account if you don't already have one, deploy the code." It's pretty straightforward
-```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Optional Configuration
 You can adjust the "number of zeros" required by the demo by editing the first two lines of
