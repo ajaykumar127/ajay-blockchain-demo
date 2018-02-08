@@ -61,7 +61,7 @@ docker-compose up -d
 Point a web browser at the demo:
 
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## Setup using Heroku
