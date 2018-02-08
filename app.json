@@ -1,7 +1,6 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Blockchain Demo",
+  "description": "A basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger.",
   "repository": "https://github.com/moremikesmith/blockchain-demo",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 }
