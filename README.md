@@ -40,7 +40,7 @@ node ./bin/www
 Point a web browser at the demo:
 
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## Setup using Docker
@@ -64,6 +64,14 @@ Point a web browser at the demo:
 http://localhost:3000
 ```
 
+## Setup using Heroku
+
+(Directions forthcoming)
+
+```
+Something along the lines of, "Spin up a Heroku Account if you don't already have one, deploy the code." It's pretty straightforward
+```
+
 ## Optional Configuration
 You can adjust the "number of zeros" required by the demo by editing the first two lines of
 `public/javascripts/blockchain.js`.
@@ -82,6 +90,6 @@ In the production bitcoin blockchain, block `458091` has the hash digest
 
 ## Send Thanks
 
-![](public/images/qr.png)
+![](public/images/smithBCAddress.png)
 
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+Bitcoin gratefully accepted: `1Dg2Vvzys6CWzjozCyxz32KSmj4ZHRwpTX`
