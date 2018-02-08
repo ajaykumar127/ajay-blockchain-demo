@@ -12,7 +12,7 @@ http://anders.com/blockchain/
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/moremikesmith/blockchain-demo.git
 ```
 
 Install dependencies:
@@ -48,7 +48,7 @@ http://localhost:3001
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/moremikesmith/blockchain-demo.git
 ```
 
 Run the Docker setup:
@@ -65,6 +65,9 @@ http://localhost:3001
 ```
 
 ## Setup using Heroku
+
+1. Sign up for a Heroku Account: https://signup.heroku.com/
+2. Push the button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
