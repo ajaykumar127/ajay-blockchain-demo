@@ -67,9 +67,7 @@ http://localhost:3001
 ## Setup using Heroku
 
 1. Sign up for a Heroku Account: https://signup.heroku.com/
-2. Push the button:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+2. Push the button:  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Optional Configuration
 You can adjust the "number of zeros" required by the demo by editing the first two lines of
